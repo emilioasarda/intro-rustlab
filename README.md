@@ -33,9 +33,3 @@ Seguidamente se muestra la tabla de contenidos de este repositorio:
 * [Option y Result](option-result).
 * [Modulos](modulos).
 * [Cargo](cargo).
-
-## Licencia
-
-Todo el codigo fuente de este repositorio se considera con licencia MIT. Para más información consulte el fichero de licencia.
-
-El contenido descrito en este repositorio, se considera licencia Creative Commons ![cc4.0-bysca](https://i.creativecommons.org/l/by-sa/4.0/88x31.png) . Puede ver una copia de la licencia en el siguiente [enlace](http://creativecommons.org/licenses/by-sa/4.0/).
